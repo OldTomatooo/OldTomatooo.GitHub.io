@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 笔记分享第01期——Markdown基础语法
-date: 2020-2-20
+date: 2021-2-20
 categories: blog
 tags: [Markdown]
 description: 所谓工欲善其事，必先利其器，MD作为优秀的轻量级语言，是我们做笔记的不二之选...
