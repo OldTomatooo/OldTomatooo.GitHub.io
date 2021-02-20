@@ -1,3 +1,12 @@
+---
+layout: post
+title: 笔记分享第06期——Java基础语法Part5
+date: 2021-2-20
+categories: blog
+tags: [Java基础语法]
+description: 这是我的Java学习笔记第6期，话不多说直插主题——
+---
+
 # Java 基础语法 Part5
 
 **Ayo大家好我是Tomatooo，这是我的Java学习笔记第6期，话不多说直插主题——**
@@ -81,5 +90,5 @@ public class demo {
 
 **另外，`x`和`y`的类型必须相同**
 
-# 看都看到这儿了，不关注一下嘛(～￣▽￣)～
+# 看都看到这儿了，不去Github给我个Star嘛(～￣▽￣)～
 
