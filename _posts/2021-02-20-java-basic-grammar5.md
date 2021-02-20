@@ -12,6 +12,8 @@ description: 这是我的Java学习笔记第6期，话不多说直插主题—�
 **Ayo大家好我是Tomatooo，这是我的Java学习笔记第6期，话不多说直插主题——**
 
 **在有关我笔记分享的博文中，我都会将MD笔记文件另外发布，方便朋友们下载学习。**
+**本期笔记文件下载地址：https://download.csdn.net/download/lbwnbnbnbn/15364021**
+**不想去CSDN下载的朋友也可以看我Milestone里发布的百度网盘下载地址**
 
 ## 浮点数运算
 ### 误差
