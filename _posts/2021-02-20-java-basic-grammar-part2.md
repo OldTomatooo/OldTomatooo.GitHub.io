@@ -1,3 +1,11 @@
+---
+layout: post
+title: 笔记分享第03期——Java基础语法Part2
+date: 2021-2-20
+categories: blog
+tags: [Java基础语法]
+description: 这是我的Java学习笔记第3期，话不多说直插主题——
+---
 # Java 基础语法 Part2
 
 **在有关我笔记分享的博客中，我都会将MD笔记文件另外发布，方便朋友们下载学习。（粉丝可下载）**
@@ -91,5 +99,4 @@ byte,short,char,int,long,float,double
 4. JDK7特性：数字间可以用下划线分割
 
 5.  操作较大的数时要特别注意溢出问题
-
-# 看都看到这儿了，不关注一下嘛(～￣▽￣)～
+# 看都看到这儿了，不去Github给我个Star嘛(～￣▽￣)～
