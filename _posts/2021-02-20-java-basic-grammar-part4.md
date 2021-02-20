@@ -1,3 +1,12 @@
+---
+layout: post
+title: 笔记分享第05期——Java基础语法Part4
+date: 2021-2-20
+categories: blog
+tags: [Java基础语法]
+description: 这是我的Java学习笔记第5期，话不多说直插主题——
+---
+
 # Java 基础语法 Part4
 
 **在有关我笔记分享的博客中，我都会将MD笔记文件另外发布，方便朋友们下载学习。（粉丝可下载）**
@@ -119,5 +128,5 @@ public class Main {
 
 不用全部记住，要确保正确只要加括号就好
 
-# 看都看到这儿了，不关注一下嘛(～￣▽￣)～
+# 看都看到这儿了，不去Github给我个Star嘛(～￣▽￣)～
 
