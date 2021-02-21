@@ -14,5 +14,4 @@ CSDN主页：https://blog.csdn.net/lbwnbnbnbn?spm=1001.2100.3001.5343
 ---
 
 一个~~常年不更~~频繁更新的博客，笔者会分享一些Java的学习笔记，偶尔也会整点好活，大家看着感觉不错也可以请笔者喝咖啡
-[![y5FSc6.jpg](https://s3.ax1x.com/2021/02/20/y5FSc6.jpg)](https://imgchr.com/i/y5FSc6)
-[![y5FpjK.jpg](https://s3.ax1x.com/2021/02/20/y5FpjK.jpg)](https://imgchr.com/i/y5FpjK)
+[![y5FSc6.jpg](https://s3.ax1x.com/2021/02/20/y5FSc6.jpg)](https://imgchr.com/i/y5FSc6)[![y5FpjK.jpg](https://s3.ax1x.com/2021/02/20/y5FpjK.jpg)](https://imgchr.com/i/y5FpjK)
