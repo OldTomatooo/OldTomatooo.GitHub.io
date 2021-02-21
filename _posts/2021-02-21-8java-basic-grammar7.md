@@ -9,7 +9,7 @@ description: 这是我的Java学习笔记第8期，话不多说直插主题—�
 
 # Java 基础语法 Part7
 
-本期笔记文件下载地址：
+本期笔记文件下载地址：https://download.csdn.net/download/lbwnbnbnbn/15406200
 不想去CSDN下载的朋友也可以看我独立博客中Milestone里发布的百度网盘下载地址
 
 Ayo大家好我是Tomatooo，这是我的Java学习笔记第8期，话不多说直插主题——
