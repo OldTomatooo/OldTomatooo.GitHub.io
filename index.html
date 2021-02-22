@@ -3,11 +3,6 @@ layout: page
 description: "博客页面"
 ---
 
-  <% if (theme.busuanzi && theme.busuanzi.enable && !index){ %>
-        <!-- 不蒜子统计 -->
-        <span id="busuanzi_container_page_pv" style='display:none' class="<%= class_name %>">
-              <i class="icon-smile icon"></i> 你是访问本站的第：<span id="busuanzi_value_page_pv"></span>位用户
-        </span>
 <% } %>
 {% for post in paginator.posts %}
 <div class="post-preview">
