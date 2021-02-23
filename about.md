@@ -4,10 +4,11 @@ title: "About"
 description: "博客描述 " 
 header-img: "img/orange.jpg"
 ---
-博客每周末持续更新~
+**博客每周末持续更新~**
+
 GiuHub主页：https://github.com/OldTomatooo
 
-CSDN主页：https://blog.csdn.net/lbwnbnbnbn?spm=1001.2100.3001.5343
+CSDN博客主页：https://blog.csdn.net/lbwnbnbnbn?spm=1001.2100.3001.5343
 
 ---
 
