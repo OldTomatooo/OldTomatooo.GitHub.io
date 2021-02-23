@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Tags"
-description: "所有文章按照标签排序，若要根据发布时间排序，请转到`Achieve`"  
+description: "所有文章按照标签排序，若要根据发布时间排序，请转到`Archive`"  
 header-img: "img/semantic.jpg"  
 ---
 
