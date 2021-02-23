@@ -62,7 +62,7 @@ public class Main {
     public static void main(String[] args) {
         // 4位员工的工资:
         int[] gz = new int[4];
-        System.out.println(gz.length); // 4
+        System.out.println(gz.length); // "4"
     }
 }
 
