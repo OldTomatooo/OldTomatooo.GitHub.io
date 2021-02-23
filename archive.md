@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Archive"
-description: "文章归档"
+description: "文章归档，所有文章按发布时间排序，若要根据标签排序，请转到`Tags`"
 header-img: "img/orange.jpg"
 ---
 
