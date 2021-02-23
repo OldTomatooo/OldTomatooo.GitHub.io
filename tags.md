@@ -5,7 +5,7 @@ description: "哈哈，你找到了我的文章基因库"
 header-img: "img/semantic.jpg"  
 ---
 
-##本页使用方法
+## 本页使用方法
 
 1. 根据文章标签选择你想浏览的文章
 2. 点击它
