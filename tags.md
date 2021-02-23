@@ -1,16 +1,9 @@
 ---
 layout: page
 title: "Tags"
-description: "哈哈，你找到了我的文章基因库"  
+description: "所有文章按照标签排序，若要根据发布时间排序，请转到`Achieve`"  
 header-img: "img/semantic.jpg"  
 ---
-
-## 本页使用方法
-
-1. 根据文章标签选择你想浏览的文章
-2. 点击它
-3. 页面会跳转到该文章
-4. 马上试试？
 
 ## 基因列表
 
