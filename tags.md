@@ -6,7 +6,9 @@ header-img: "img/semantic.jpg"
 ---
 
 ## 基因列表
-
+<a href="https://github.com/OldTomatooo">
+    <img border="0" src="https://s3.ax1x.com/2021/02/27/69CUBT.png" />
+</a>
 
 <div id='tag_cloud'>
 {% for tag in site.tags %}
