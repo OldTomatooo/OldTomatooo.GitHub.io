@@ -8,6 +8,7 @@ header-img: "img/orange.jpg"
 <a href="https://github.com/OldTomatooo">
     <img border="0" src="https://s3.ax1x.com/2021/02/27/69CUBT.png" />
 </a>
+
 {% for post in site.posts %}
   {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
   {% if year != y %}
