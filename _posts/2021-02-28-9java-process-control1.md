@@ -1,3 +1,12 @@
+---
+layout: post
+title: 笔记分享第09期——Java流程控制Part1
+date: 2021-2-21
+categories: blog
+tags: [Java流程控制]
+description: 这是我的Java学习笔记第9期，话不多说直插主题——
+---
+
 # Java 流程控制 Part1
 
 在有关我笔记分享的博文中，我都会将MD笔记文件另外发布，方便朋友们下载学习。
