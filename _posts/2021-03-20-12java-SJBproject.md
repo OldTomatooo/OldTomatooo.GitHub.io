@@ -1,3 +1,11 @@
+---
+layout: post
+title: (简易版)Java实现人机石头剪刀布
+date: 2021-3-20
+categories: blog
+tags: [整活]
+description: 人机石头剪刀布，代码逻辑可能有不足之处，欢迎各位给出宝贵建议
+---
 # Java实现人机石头剪刀布
 
 > 代码逻辑可能有不足之处，欢迎各位给出宝贵建议。
