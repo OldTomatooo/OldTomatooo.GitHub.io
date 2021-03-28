@@ -6,12 +6,12 @@ header-img: "img/orange.jpg"
 ---
 **博客每周末持续更新~**
 
-GiuHub主页：https://github.com/OldTomatooo
+GiuHub主页：(https://github.com/OldTomatooo)[https://github.com/OldTomatooo]
 <a href="https://github.com/OldTomatooo">
     <img border="0" src="https://s3.ax1x.com/2021/02/27/69CUBT.png" />
 </a>
   
-CSDN博客主页：https://blog.csdn.net/lbwnbnbnbn?spm=1001.2100.3001.5343
+CSDN博客主页：(https://blog.csdn.net/lbwnbnbnbn)[https://blog.csdn.net/lbwnbnbnbn]
 
 ---
 
