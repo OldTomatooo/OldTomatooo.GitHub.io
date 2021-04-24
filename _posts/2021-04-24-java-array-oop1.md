@@ -3,7 +3,7 @@ layout: post
 title: 笔记分享第15期——Java面向对象Part1
 date: 2021-4-24
 categories: blog
-tags: [Java面向对象操作]
+tags: [Java面向对象]
 description: 在之前的学习中，我们学习了Java的一些基础语法，这篇文章我们就来学习Java语言的一个难点——面向对象(OOP)
 ---
 # Java学习笔记第15期——Java 面向对象 Part1
