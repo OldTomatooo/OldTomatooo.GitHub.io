@@ -124,6 +124,6 @@ Java作为一种面向对象语言，支持以下基本概念：
 
 指向`instance`的变量都是引用变量。
 
-<center><b>時辛丑年叁月拾日</center>
+<center><b>時辛丑年叁月拾日
 <center><b>寫於公元貳零貳壹年肆月貳拾壹日
 <center><b>The end
