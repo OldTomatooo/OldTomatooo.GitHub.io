@@ -17,4 +17,4 @@ CSDN博客主页：[https://blog.csdn.net/lbwnbnbnbn](https://blog.csdn.net/lbwn
 ---
 
 这是个~~常年不更~~频繁更新的博客，博客名"OldTomatooo"来自B站知名UP主`@老番茄`的ID英文直译，笔者在博客中会分享一些Java的学习笔记，偶尔也会整点好活，大家看着感觉不错也可以请笔者喝咖啡
-[![yoyxu4.png](https://s3.ax1x.com/2021/02/21/yoyxu4.png)](https://imgchr.com/i/yoyxu4)
+![微信](https://ftp.bmp.ovh/imgs/2021/05/7ee0ff96338cace1.jpg)![支付宝](https://ftp.bmp.ovh/imgs/2021/05/13138f787363da65.jpg)
