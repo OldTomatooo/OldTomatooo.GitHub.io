@@ -6,7 +6,9 @@ categories: blog
 tags: [软件分享]
 description: 随着科技高速发展的今天，随着手写机会的减少，“好记性不如烂笔头”这句话似乎逐渐淡出了大家的视野。过去，你记笔记的工具是什么？是传统的纸笔？还是电脑、手机上的Word？又或是轻量级的TXT,Markdown编辑器？上面这些工具的确有时非常高效。だが，如果你对现在笔记工具的概念还停留在这些本地编辑器上，那你真的大错特错了。
 ---
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210430204553340.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xid25ibmJuYm4=,size_16,color_FFFFFF,t_70#pic_center)
+
 # 前言
 
 随着科技高速发展的今天，随着手写机会的减少，“好记性不如烂笔头”这句话似乎逐渐淡出了大家的视野。
@@ -18,6 +20,7 @@ description: 随着科技高速发展的今天，随着手写机会的减少，�
 现在的笔记可以是这样的：
 
 <center><img src="https://img-blog.csdnimg.cn/20210424165505453.gif" alt="在这里插入图片描述" style="zoom:33%;" />
+
 
 
 这样的：
@@ -32,6 +35,7 @@ description: 随着科技高速发展的今天，随着手写机会的减少，�
 这些简洁，实用且精美的笔记，都来自笔者要分享给大家的这款**全平台**笔记工具
 
 <center><img src="https://img-blog.csdnimg.cn/20210424165616676.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xid25ibmJuYm4=,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述" style="zoom:33%;" />
+
 
 
 各位读者，今天我隆重地向你们介绍今天的主角——我来(wolai)
@@ -60,6 +64,7 @@ description: 随着科技高速发展的今天，随着手写机会的减少，�
 <center><img src="https://img-blog.csdnimg.cn/20210424165704183.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xid25ibmJuYm4=,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述" style="zoom:33%;" />
 
 
+
 你也可以点击“➕”，快速创建页面。
 
 
@@ -69,6 +74,7 @@ description: 随着科技高速发展的今天，随着手写机会的减少，�
 在页面中，你记下的每个内容，都被称为「块」。举个例子:
 
 <center><img src="https://img-blog.csdnimg.cn/20210424165712902.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xid25ibmJuYm4=,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述" style="zoom:33%;" />
+
 
 
 仔细看，看到箭头指的虚线框了吗？虚线框起的部分都是一个「块」。
@@ -126,6 +132,7 @@ description: 随着科技高速发展的今天，随着手写机会的减少，�
 <center><img src="https://img-blog.csdnimg.cn/20210424165859652.gif" alt="在这里插入图片描述" style="zoom:33%;" />
 
 
+
 **真 的 很 好 用!**
 
 ## 块的不同类型
@@ -143,7 +150,7 @@ description: 随着科技高速发展的今天，随着手写机会的减少，�
 <img src="https://img-blog.csdnimg.cn/20210424165954542.gif" alt="在这里插入图片描述" style="zoom:33%;" />
 
 
-如果你想来段代码，用markdown语法中的```当然可以，但是在我来中，我更推荐你输入/dm直接完事。想嵌入音频？没问题！输入/yp。（均为拼音首字母）不仅如此，我来还可以嵌入第三方平台的音视频或表格，支持网易云，B站，腾讯，优酷，YouTube，西瓜、搜狐。除此之外，我来还能添加网址书签，上传文件，嵌入墨刀和Seatable。还没完！输入/sj即可快速获取当前时间，输入/rq即可获取当前日期，大大提高工作效率。🐂🍺
+如果你想来段代码，用markdown语法中的` ``` `当然可以，但是在我来中，我更推荐你输入/dm直接完事。想嵌入音频？没问题！输入/yp。（均为拼音首字母）不仅如此，我来还可以嵌入第三方平台的音视频或表格，支持网易云，B站，腾讯，优酷，YouTube，西瓜、搜狐。除此之外，我来还能添加网址书签，上传文件，嵌入墨刀和Seatable。还没完！输入/sj即可快速获取当前时间，输入/rq即可获取当前日期，大大提高工作效率。🐂🍺
 
 ## 页面与块的操作
 
@@ -178,6 +185,7 @@ description: 随着科技高速发展的今天，随着手写机会的减少，�
 在我来做的笔记想要导出？没问题，我来提供了导出功能，支持Markdown和PDF两种常用格式。
 
 <center><img src="https://img-blog.csdnimg.cn/20210424170304572.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xid25ibmJuYm4=,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述" style="zoom: 67%;" />
+
 
 
 # 安全性
@@ -223,9 +231,11 @@ description: 随着科技高速发展的今天，随着手写机会的减少，�
 
 
 
+
 对中文的适配还体现在全角符号兼容的Markdown快捷输入上，从此告别频繁切换输入模式的痛苦。
 
 <center><img src="https://img-blog.csdnimg.cn/20210424170508127.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xid25ibmJuYm4=,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述" style="zoom: 25%;" />
+
 
 
 还有中文字体的行距优化，尽量呈现最完美的中文排版布局。
@@ -251,9 +261,11 @@ description: 随着科技高速发展的今天，随着手写机会的减少，�
 <center><img src="https://img-blog.csdnimg.cn/20210424170605339.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xid25ibmJuYm4=,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述" style="zoom:33%;" /><img src="https://img-blog.csdnimg.cn/20210424170611421.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xid25ibmJuYm4=,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述" style="zoom:33%;" /><img src="https://img-blog.csdnimg.cn/20210424170635965.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xid25ibmJuYm4=,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述" style="zoom:33%;" />
 
 
+
 还有海量题头图，同样支持 Pexels 和 Unsplash 的图库查询：
 
 <center><img src="https://img-blog.csdnimg.cn/20210424171218973.gif" alt="在这里插入图片描述" style="zoom:33%;" />
+
 
 
 ## 右侧边栏
@@ -287,9 +299,15 @@ description: 随着科技高速发展的今天，随着手写机会的减少，�
 
 联系我来:[wolai.com/wolai/5yMV1U5h5h7PhxgWJzu8k6](https://www.wolai.com/wolai/5yMV1U5h5h7PhxgWJzu8k6)
 
-哦，对了，我给大家申请来了邀请码： **SQY2021** ，注册时输入，能领取兑换一个月会员的 30 积分。
+哦，对了，我给大家申请来了邀请码：**SQY2021**，注册时输入，能领取兑换一个月会员的 30 积分。
 
 <center><b>辛醜年(牛) · 叁月廿柒<br>
+
+
 <center><b>寫於公元貳零貳壹年伍月捌日<br>
+
+
 <center><b>The end<br>
+
+
 
