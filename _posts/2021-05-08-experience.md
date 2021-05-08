@@ -19,18 +19,18 @@ description: 随着科技高速发展的今天，随着手写机会的减少，�
 
 现在的笔记可以是这样的：
 
-<center><img src="https://img-blog.csdnimg.cn/20210424165505453.gif"  />
+<center><img src="https://img-blog.csdnimg.cn/20210424165505453.gif" alt="在这里插入图片描述" style="zoom:33%;" />
 
 
 
 这样的：
 
 
-<img src="https://img-blog.csdnimg.cn/20210424165513980.gif" />
+<img src="https://img-blog.csdnimg.cn/20210424165513980.gif" alt="在这里插入图片描述" style="zoom:33%;" />
 
 还可以是这样的：
 
-<img src="https://img-blog.csdnimg.cn/20210424165524412.gif" />
+<img src="https://img-blog.csdnimg.cn/20210424165524412.gif" alt="在这里插入图片描述" style="zoom:33%;" />
 
 这些简洁，实用且精美的笔记，都来自笔者要分享给大家的这款**全平台**笔记工具
 
@@ -48,12 +48,12 @@ description: 随着科技高速发展的今天，随着手写机会的减少，�
 
 在我来中，你可以为自己创建多个工作空间，这就像你为你的电脑磁盘分区一样。
 
-![](https://img-blog.csdnimg.cn/2021042416564364.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xid25ibmJuYm4=,size_16,color_FFFFFF,t_70)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/2021042416564364.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xid25ibmJuYm4=,size_16,color_FFFFFF,t_70)
 
 
 在新建工作空间的过程中，你还可以为工作空间自定义图标：
 
-<img src="https://img-blog.csdnimg.cn/20210424165653346.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xid25ibmJuYm4=,size_16,color_FFFFFF,t_70" />
+<img src="https://img-blog.csdnimg.cn/20210424165653346.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xid25ibmJuYm4=,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述" style="zoom:33%;" />
 
 
 
@@ -226,7 +226,7 @@ description: 随着科技高速发展的今天，随着手写机会的减少，�
 中英文，数字之间会自动插入间隔，让人一目了然，笔记的美观度直线上升。
 
 <center><img src="https://img-blog.csdnimg.cn/20210424170354325.gif" alt="在这里插入图片描述" style="zoom: 25%;" />
-![C:\Users\Father\AppData\Roaming\Typora\typora-user-images\image-20210424115112683.png](https://img-blog.csdnimg.cn/2021042417044638.png)
+![](https://img-blog.csdnimg.cn/2021042417044638.png)
 
 
 
@@ -281,35 +281,33 @@ description: 随着科技高速发展的今天，随着手写机会的减少，�
 
 除此之外，我来还有很多很多的使用功能，上面介绍的就当是抛砖引玉，其余的等着各位读者自行发掘吧。
 
-还有一点，wolai的更新速度是非常快的，说不定过两天你期待的功能就上线了。查看
-[最新进展](https://www.wolai.com/wolai/k1Qgi1J2L9vWBQkkJz8j82)
+还有一点，wolai的更新速度是非常快的，说不定过两天你期待的功能就上线了。查看[最新进展](https://www.wolai.com/wolai/k1Qgi1J2L9vWBQkkJz8j82)
 
 # 结语
 
-***而自从 Notion “借鉴” Airtable 推出表格之后，我觉得作为一个信息组织与协同的工具，我理想中的模样已经基本成型了。
-国内的网络环境，一旦遇到网站无法访问的情况，好几次让整个团队的工作整体陷入停滞。再加上 Notion 对中国用户的极不友好与傲慢，在我看来作为一个 10,000 美金付费用户连基本的尊重都没有得到。于是，我开始在国内寻找某种替代，然而结果是令人失望的，无论是钉钉、飞书、语雀，都让我非常失望。兜兜转转之后，我发现，所有的丰衣足食，最后都是自己动手。于是，便有了“我来”。***
-**——截取自wolai.com创始人 马锐拉 的回答
-[https://www.zhihu.com/question/407132273](https://www.zhihu.com/question/407132273)**
+> 而自从 Notion “借鉴” Airtable 推出表格之后，我觉得作为一个信息组织与协同的工具，我理想中的模样已经基本成型了。
+>
+> 国内的网络环境，一旦遇到网站无法访问的情况，好几次让整个团队的工作整体陷入停滞。再加上 Notion 对中国用户的极不友好与傲慢，在我看来作为一个 10,000 美金付费用户连基本的尊重都没有得到。于是，我开始在国内寻找某种替代，然而结果是令人失望的，无论是钉钉、飞书、语雀，都让我非常失望。兜兜转转之后，我发现，所有的丰衣足食，最后都是自己动手。于是，便有了“我来”。
+>
+> ——截取自wolai.com创始人 马锐拉 的回答 [https://www.zhihu.com/question/407132273](https://www.zhihu.com/question/407132273)
 
 现如今，时间，信息......一切都是碎片化的，效率显得尤为重要，“我来”在效率方面的确能带来很大的提升。在各类工具百家争鸣的今天，“我来”走出了自己独特的道路，作为一款笔记软件，它不但拥有普通笔记软件的功能，而且在人们不经意的细节上优化到了极致，这放在任何时刻都是难能可贵的。就如“我来”官网的宣传语：“不仅仅是未来的云端笔记！”无论是大纲笔记还是今日速记，简历、博客还是生活、旅行，“我来”一直都是你值得一试的选择。
 
 如果你想开始使用我来，可以点击链接[wolai.com](wolai.com)跳转到官网进行注册
 
-快速上手:
-[wolai.com/wolai/xhqeop8UHpVTMUSVmgz8nq](https://www.wolai.com/wolai/xhqeop8UHpVTMUSVmgz8nq)
+快速上手:[wolai.com/wolai/xhqeop8UHpVTMUSVmgz8nq](https://www.wolai.com/wolai/xhqeop8UHpVTMUSVmgz8nq)
 
-联系我来: 
-[wolai.com/wolai/5yMV1U5h5h7PhxgWJzu8k6](https://www.wolai.com/wolai/5yMV1U5h5h7PhxgWJzu8k6)
+联系我来:[wolai.com/wolai/5yMV1U5h5h7PhxgWJzu8k6](https://www.wolai.com/wolai/5yMV1U5h5h7PhxgWJzu8k6)
 
 哦，对了，我给大家申请来了邀请码：**SQY2021**，注册时输入，能领取兑换一个月会员的 30 积分。
 
-<center><b>辛醜年(牛) · 叁月廿柒<br>
+<center><b>辛醜年(牛) · 叁月廿柒
 
 
-<center><b>寫於公元貳零貳壹年伍月捌日<br>
+<center><b>寫於公元貳零貳壹年伍月捌日
 
 
-<center><b>The end<br>
+<center><b>The end
 
 
 
