@@ -287,7 +287,7 @@ description: 随着科技高速发展的今天，随着手写机会的减少，�
 
 联系我来:[wolai.com/wolai/5yMV1U5h5h7PhxgWJzu8k6](https://www.wolai.com/wolai/5yMV1U5h5h7PhxgWJzu8k6)
 
-哦，对了，我给大家申请来了邀请码：**SQY2021**，注册时输入，能领取兑换一个月会员的 30 积分。
+哦，对了，我给大家申请来了邀请码： **SQY2021** ，注册时输入，能领取兑换一个月会员的 30 积分。
 
 <center><b>辛醜年(牛) · 叁月廿柒<br>
 <center><b>寫於公元貳零貳壹年伍月捌日<br>
